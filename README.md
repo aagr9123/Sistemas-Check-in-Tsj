@@ -1,4 +1,4 @@
-<img width="1487" height="680" alt="imagen" src="https://github.com/user-attachments/assets/1a9583d8-f89e-4179-a3ae-1dc5eecbab9b" /># Sistemas-Check-in-Tsj
+# Sistemas-Check-in-TSJ
 Sistema web de control de asistencia con integración biométrica, gestión de personal, gestión multi-sede, roles de usuario y cálculo automatizado de nómina.
 ## Sobre el proyecto
 
