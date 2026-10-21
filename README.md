@@ -63,7 +63,9 @@ y el alcance de acceso de cada usuario.
 
     </td>
     <td align="center">
-      <img width="280" alt="Dashboard del administrador de sede" src="https://github.com/user-attachments/assets/22e1aed4-b5dd-4171-9b6d-e30f1ab07171" />
+      <img width="280" 
+      alt="Dashboard deladministrador de sede" 
+      src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c" />
 
     </td>
     <td align="center">
