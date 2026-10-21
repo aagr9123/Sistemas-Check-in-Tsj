@@ -51,6 +51,7 @@ División Personal (Recursos Humanos): dispone de un menú más limitado, con ac
 El dashboard presenta información y funcionalidades según el rol
 y el alcance de acceso de cada usuario.
 
+
 <table>
   <tr>
     <th align="center">Administrador global</th>
@@ -59,17 +60,13 @@ y el alcance de acceso de cada usuario.
   </tr>
   <tr>
     <td align="center">
-      <img width="280" alt="Administrador Global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e" />
-
+      <img width="280" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
     </td>
     <td align="center">
-      <img width="280" 
-      alt="Dashboard deladministrador de sede" 
-      src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c" />
-
+      <img width="280" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
     </td>
     <td align="center">
-      <img src="docs/capturas/dashboard-division-personal.png" width="280" alt="Dashboard de División Personal">
+      <img width="280" alt="División Personal" src="docs/capturas/dashboard-division-personal.png">
     </td>
   </tr>
   <tr>
@@ -78,6 +75,7 @@ y el alcance de acceso de cada usuario.
     <td align="center">Panel con las funcionalidades autorizadas para su rol.</td>
   </tr>
 </table>
+
 
 
 ### 2. Gestión de empleados
