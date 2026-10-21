@@ -1,4 +1,4 @@
-# Sistemas-Check-in-Tsj
+<img width="1487" height="680" alt="imagen" src="https://github.com/user-attachments/assets/1a9583d8-f89e-4179-a3ae-1dc5eecbab9b" /># Sistemas-Check-in-Tsj
 Sistema web de control de asistencia con integración biométrica, gestión de personal, gestión multi-sede, roles de usuario y cálculo automatizado de nómina.
 ## Sobre el proyecto
 
@@ -40,11 +40,11 @@ antalla de autenticación para acceder al sistema mediante credenciales de usuar
 Dashboard con información de asistencia y gráficos para consultar la puntualidad del personal por períodos diarios, semanales y mensuales. Que permite visualizar información relacionada con el control de asistencia del personal. La interfaz y las opciones disponibles varían según el rol del usuario, de acuerdo con sus responsabilidades y permisos de acceso.
 
 La gestión multisede permite administrar la información de distintas sedes, manteniendo restricciones de acceso según el nivel de autorización de cada usuario:
-Administrador global (admin_global): dispone de opciones de gestión con alcance multisede.
+-Administrador global (admin_global): dispone de opciones de gestión con alcance multisede.
 
-Administrador de sede (admin_sede): accede a las opciones autorizadas para administrar su propia sede.
+-Administrador de sede (admin_sede): accede a las opciones autorizadas para administrar su propia sede.
 
-División Personal (Recursos Humanos): dispone de un menú más limitado, con acceso a Inicio, Empleados, Asistencias y Check-in de su sede correspondiente.
+-División Personal (Recursos Humanos): dispone de un menú más limitado, con acceso a Inicio, Empleados, Asistencias y Check-in de su sede correspondiente.
 
 ## Dashboard según el rol de usuario
 
@@ -82,8 +82,32 @@ y el alcance de acceso de cada usuario.
 
 Módulo para consultar y administrar la información del personal, con opciones de registro y edición.
 
-<!-- Agregar captura real de empleados -->
-![Gestión de empleados](docs/screenshots/empleados.png)
+
+<table>
+  <tr>
+    <th align="center">Administrador global</th>
+    <th align="center">Administrador de sede</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="420" alt="Dashboard del administrador global"
+      src="https://github.com/user-attachments/assets/1b260727-941b-47fb-82e2-f63c6b7c5ec3" />
+    </td>
+    <td align="center">
+      <img width="420" alt="Dashboard del administrador de sede"
+      src="https://github.com/user-attachments/assets/ab903185-b19c-47a9-8010-16f7ca61044f" />
+
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>División Personal</strong><br>
+      <img width="420" alt="Dashboard de División Personal"
+      src="docs/capturas/dashboard-division-personal.png">
+    </td>
+  </tr>
+</table>
+
 
 ### 3. Control de asistencia
 
