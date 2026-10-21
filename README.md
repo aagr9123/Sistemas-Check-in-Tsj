@@ -60,13 +60,13 @@ y el alcance de acceso de cada usuario.
   </tr>
   <tr>
     <td align="center">
-      <img width="900" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
+      <img width="100%" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
     </td>
     <td align="center">
-      <img width="900" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
+      <img width="100%" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
     </td>
     <td align="center">
-      <img width="900" alt="División Personal" src="https://github.com/user-attachments/assets/5a5fd4aa-992a-46dc-8d75-a6e9f8cbd8c3" />
+      <img width="100%" alt="División Personal" src="https://github.com/user-attachments/assets/5a5fd4aa-992a-46dc-8d75-a6e9f8cbd8c3" />
     </td>
   </tr>
   <tr>
@@ -90,11 +90,11 @@ Módulo para consultar y administrar la información del personal, con opciones 
   </tr>
   <tr>
     <td align="center">
-      <img width="420" alt="Dashboard del administrador global"
+      <img width="100%" alt="Dashboard del administrador global"
       src="https://github.com/user-attachments/assets/1b260727-941b-47fb-82e2-f63c6b7c5ec3" />
     </td>
     <td align="center">
-      <img width="420" alt="Dashboard del administrador de sede"
+      <img width="100%" alt="Dashboard del administrador de sede"
       src="https://github.com/user-attachments/assets/ab903185-b19c-47a9-8010-16f7ca61044f" />
     </td>
   </tr>
@@ -126,7 +126,7 @@ Módulo para consultar y administrar la información del personal, con opciones 
   <tr>
     <td align="center">
       <strong> Huella</strong><br>
-      <img src="https://github.com/user-attachments/assets/c58b6b6c-0bcb-4c54-afa6-52d7f3c0562" width="100%">
+      <img src="https://github.com/user-attachments/assets/4ccb76de-a5eb-477d-a124-819b294f5f73"  width="100%">
     </td>
     <td></td>
   </tr>
@@ -157,10 +157,26 @@ Se puede ver y editar en el mismo campo:
 
 ### 3. Control de asistencia
 
-Consulta de los registros de entrada y salida del personal, con información organizada para facilitar el seguimiento de las asistencias.
+Consulta de los registros de entrada y salida del personal, fecha y hora, la hora esperada según el horario del cargo, hora de retraso, horas trabajadas, con información organizada para facilitar el seguimiento de las asistencias.
 
-<!-- Agregar captura real de asistencias -->
-![Registro de asistencias](docs/screenshots/asistencias.png)
+
+<table>
+  <tr>
+    <th align="center">Administrador global</th>
+    <th align="center">Administrador de sede</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Administrador global"
+      src="https://github.com/user-attachments/assets/54a153a3-6d01-43f2-874f-2d71dff41f56" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="Administrador de sede"
+      src=""https://github.com/user-attachments/assets/adfe8836-4f90-48bb-a28b-677ebeb3a437" />
+    </td>
+  </tr>
+</table>
+Admin global cuenta con su filtro de sede para seleccionar el rendimiento de la sede que se desee auditar.
 
 ### 4. Check-in biométrico
 
