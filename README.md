@@ -67,7 +67,6 @@ y el alcance de acceso de cada usuario.
     </td>
     <td align="center">
       <img width="280" alt="División Personal" src="https://github.com/user-attachments/assets/5a5fd4aa-992a-46dc-8d75-a6e9f8cbd8c3" />
-">
     </td>
   </tr>
   <tr>
