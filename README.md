@@ -30,9 +30,9 @@ Durante las pasantías identifiqué la oportunidad de mejorar un proceso que dep
 antalla de autenticación para acceder al sistema mediante credenciales de usuario. El acceso a las funcionalidades está sujeto al rol y los permisos asignados a cada cuenta.
 
 
-
+<p align="center">
 <img width="600"  alt="imagen de login" src="https://github.com/user-attachments/assets/b040ebf7-e3e6-4144-aa6b-2fc062bda2ec" />
-
+</p>
 
 
 ### 1. Panel principal y estadísticas
