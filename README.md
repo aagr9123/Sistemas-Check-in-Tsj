@@ -172,7 +172,7 @@ Consulta de los registros de entrada y salida del personal, fecha y hora, la hor
     </td>
     <td align="center">
       <img width="100%" alt="Administrador de sede"
-      src=""https://github.com/user-attachments/assets/adfe8836-4f90-48bb-a28b-677ebeb3a437" />
+      src="https://github.com/user-attachments/assets/adfe8836-4f90-48bb-a28b-677ebeb3a437" />
     </td>
   </tr>
 </table>
