@@ -37,10 +37,46 @@ antalla de autenticación para acceder al sistema mediante credenciales de usuar
 
 ### 1. Panel principal y estadísticas
 
-Dashboard con información de asistencia y gráficos para consultar la puntualidad del personal por períodos diarios, semanales y mensuales.
+Dashboard con información de asistencia y gráficos para consultar la puntualidad del personal por períodos diarios, semanales y mensuales. Que permite visualizar información relacionada con el control de asistencia del personal. La interfaz y las opciones disponibles varían según el rol del usuario, de acuerdo con sus responsabilidades y permisos de acceso.
 
-<!-- Agregar captura real del dashboard -->
-![Dashboard del sistema](docs/screenshots/dashboard.png)
+La gestión multisede permite administrar la información de distintas sedes, manteniendo restricciones de acceso según el nivel de autorización de cada usuario:
+Administrador global (admin_global): dispone de opciones de gestión con alcance multisede.
+
+Administrador de sede (admin_sede): accede a las opciones autorizadas para administrar su propia sede.
+
+División Personal (Recursos Humanos): dispone de un menú más limitado, con acceso a Inicio, Empleados, Asistencias y Check-in de su sede correspondiente.
+
+## Dashboard según el rol de usuario
+
+El dashboard presenta información y funcionalidades según el rol
+y el alcance de acceso de cada usuario.
+
+<table>
+  <tr>
+    <th align="center">Administrador global</th>
+    <th align="center">Administrador de sede</th>
+    <th align="center">División Personal</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="280" alt="Administrador Global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e" />
+
+    </td>
+    <td align="center">
+      <img width="280" alt="Dashboard del administrador de sede" src="https://github.com/user-attachments/assets/22e1aed4-b5dd-4171-9b6d-e30f1ab07171" />
+
+    </td>
+    <td align="center">
+      <img src="docs/capturas/dashboard-division-personal.png" width="280" alt="Dashboard de División Personal">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Vista de alcance multisede.</td>
+    <td align="center">Información correspondiente a su sede.</td>
+    <td align="center">Panel con las funcionalidades autorizadas para su rol.</td>
+  </tr>
+</table>
+
 
 ### 2. Gestión de empleados
 
