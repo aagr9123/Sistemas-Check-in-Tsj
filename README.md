@@ -60,10 +60,10 @@ y el alcance de acceso de cada usuario.
   </tr>
   <tr>
     <td align="center">
-      <img width="350" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
+      <img width="600" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
     </td>
     <td align="center">
-      <img width="350" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
+      <img width="600" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
     </td>
     <td align="center">
       <img width="280" alt="División Personal" src="docs/capturas/dashboard-division-personal.png">
