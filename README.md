@@ -96,14 +96,6 @@ Módulo para consultar y administrar la información del personal, con opciones 
     <td align="center">
       <img width="420" alt="Dashboard del administrador de sede"
       src="https://github.com/user-attachments/assets/ab903185-b19c-47a9-8010-16f7ca61044f" />
-
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>División Personal</strong><br>
-      <img width="420" alt="Dashboard de División Personal"
-      src="docs/capturas/dashboard-division-personal.png">
     </td>
   </tr>
 </table>
