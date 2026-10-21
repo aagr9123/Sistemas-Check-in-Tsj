@@ -126,7 +126,7 @@ Módulo para consultar y administrar la información del personal, con opciones 
   <tr>
     <td align="center">
       <strong> Huella</strong><br>
-      <img src="https://github.com/user-attachments/assets/c58b6b6c-0bcb-4c54-afa6-52d7f3c05629" width="100%">
+      <img src="https://github.com/user-attachments/assets/c58b6b6c-0bcb-4c54-afa6-52d7f3c0562" width="100%">
     </td>
     <td></td>
   </tr>
@@ -150,10 +150,7 @@ Se puede ver y editar en el mismo campo:
   <tr>
     <td align="center">
       <strong>Modo Edición</strong><br>
-      <img src="
-
-
-" width="100%">
+      <img src="https://github.com/user-attachments/assets/8d5cf82b-99a2-400e-9c17-0444434340f0"  width="100%">
     </td>
    
 </table>
