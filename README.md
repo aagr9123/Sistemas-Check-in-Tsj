@@ -100,7 +100,41 @@ Módulo para consultar y administrar la información del personal, con opciones 
   </tr>
 </table>
 
+### Gestión de empleados
 
+Este módulo permite registrar, consultar y editar la información del
+personal. Las opciones disponibles se adaptan al rol y los permisos
+del usuario.
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Agregar empleado</strong><br>
+      <img src="URL_IMAGEN_1" width="400">
+    </td>
+    <td align="center">
+      <strong>Consultar empleado</strong><br>
+      <img src="URL_IMAGEN_2" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Editar empleado</strong><br>
+      <img src="URL_IMAGEN_3" width="400">
+    </td>
+    <td align="center">
+      <strong>Listado de empleados</strong><br>
+      <img src="URL_IMAGEN_4" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Administración global</strong><br>
+      <img src="URL_IMAGEN_5" width="400">
+    </td>
+    <td></td>
+  </tr>
+</table>
 ### 3. Control de asistencia
 
 Consulta de los registros de entrada y salida del personal, con información organizada para facilitar el seguimiento de las asistencias.
