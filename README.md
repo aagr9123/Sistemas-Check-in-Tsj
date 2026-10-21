@@ -66,7 +66,8 @@ y el alcance de acceso de cada usuario.
       <img width="600" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
     </td>
     <td align="center">
-      <img width="280" alt="División Personal" src="docs/capturas/dashboard-division-personal.png">
+      <img width="280" alt="División Personal" src="https://github.com/user-attachments/assets/5a5fd4aa-992a-46dc-8d75-a6e9f8cbd8c3" />
+">
     </td>
   </tr>
   <tr>
