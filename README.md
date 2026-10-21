@@ -60,13 +60,13 @@ y el alcance de acceso de cada usuario.
   </tr>
   <tr>
     <td align="center">
-      <img width="600" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
+      <img width="900" alt="Administrador global" src="https://github.com/user-attachments/assets/77624983-6e6d-4e4c-96d4-1a8f8328988e">
     </td>
     <td align="center">
-      <img width="600" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
+      <img width="900" alt="Administrador de sede" src="https://github.com/user-attachments/assets/c2a8d6e4-5b48-454a-8ab2-e1dfb784ca7c">
     </td>
     <td align="center">
-      <img width="280" alt="División Personal" src="https://github.com/user-attachments/assets/5a5fd4aa-992a-46dc-8d75-a6e9f8cbd8c3" />
+      <img width="900" alt="División Personal" src="https://github.com/user-attachments/assets/5a5fd4aa-992a-46dc-8d75-a6e9f8cbd8c3" />
     </td>
   </tr>
   <tr>
@@ -100,41 +100,64 @@ Módulo para consultar y administrar la información del personal, con opciones 
   </tr>
 </table>
 
-### Gestión de empleados
-
-Este módulo permite registrar, consultar y editar la información del
-personal. Las opciones disponibles se adaptan al rol y los permisos
-del usuario.
+### Agregar empleados:
 
 <table>
   <tr>
     <td align="center">
-      <strong>Agregar empleado</strong><br>
-      <img src="https://github.com/user-attachments/assets/af91d985-78a0-4aa9-99b3-c4444d8ec7cc" width="400">
+      <strong>Datos Personales</strong><br>
+      <img src="https://github.com/user-attachments/assets/af91d985-78a0-4aa9-99b3-c4444d8ec7cc" width="100%">
     </td>
     <td align="center">
-      <strong>Consultar empleado</strong><br>
-      <img src="URL_IMAGEN_2" width="400">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Editar empleado</strong><br>
-      <img src="URL_IMAGEN_3" width="400">
-    </td>
-    <td align="center">
-      <strong>Listado de empleados</strong><br>
-      <img src="URL_IMAGEN_4" width="400">
+      <strong>Datos Personales</strong><br>
+      <img src="https://github.com/user-attachments/assets/9c8343c4-f07a-42d4-9c9a-051894ae0d3c" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Administración global</strong><br>
-      <img src="URL_IMAGEN_5" width="400">
+      <strong>Sueldos</strong><br>
+      <img src="https://github.com/user-attachments/assets/d1d55dea-4fe7-4418-8ba7-a3472ebd2c28" width="100%">
+    </td>
+    <td align="center">
+      <strong>Foto</strong><br>
+      <img src="https://github.com/user-attachments/assets/f3b3fc3c-1481-4216-9ac3-19da76e8fb83" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong> Huella</strong><br>
+      <img src="https://github.com/user-attachments/assets/c58b6b6c-0bcb-4c54-afa6-52d7f3c05629" width="100%">
     </td>
     <td></td>
   </tr>
 </table>
+
+### Ver/Editar empleados:
+
+Se puede ver y editar en el mismo campo:
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Modo Vista </strong><br>
+      <img src="https://github.com/user-attachments/assets/1ce0a4f2-2a67-4acc-ae3d-d22d2d5f3531" width="100%">
+    </td>
+    <td align="center">
+      <strong>Modo Edición</strong><br>
+      <img src="https://github.com/user-attachments/assets/f8a09710-2521-4a4f-bcc6-491e61f115ee" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Modo Edición</strong><br>
+      <img src="
+
+
+" width="100%">
+    </td>
+   
+</table>
+
 ### 3. Control de asistencia
 
 Consulta de los registros de entrada y salida del personal, con información organizada para facilitar el seguimiento de las asistencias.
