@@ -110,7 +110,7 @@ del usuario.
   <tr>
     <td align="center">
       <strong>Agregar empleado</strong><br>
-      <img src="URL_IMAGEN_1" width="400">
+      <img src="https://github.com/user-attachments/assets/af91d985-78a0-4aa9-99b3-c4444d8ec7cc" width="400">
     </td>
     <td align="center">
       <strong>Consultar empleado</strong><br>
