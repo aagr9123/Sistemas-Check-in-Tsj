@@ -209,7 +209,7 @@ Al alcanzar el límite establecido, el usuario queda bloqueado y debe acudir a R
 <table>
   <tr>
     <th align="center">Contador de Tardanzas</th>
-    <th align="center">Notificacion de Advertencia N*3</th>
+    <th align="center">Notificación de advertencia: límite alcanzado</th>
     <th align="center">Boton de Desbloqueo</th>
   </tr>
   <tr>
@@ -220,7 +220,7 @@ Al alcanzar el límite establecido, el usuario queda bloqueado y debe acudir a R
       <img width="100%" alt="Notificacion de Advertencia" src="https://github.com/user-attachments/assets/3e56a472-8166-471d-96bd-4219e894e0e2" />
     </td>
     <td align="center">
-      <img width="100%" alt="Boton de Desbloqueo"  src="https://github.com/user-attachments/assets/00cdda14-e4d6-4e52-8b9e-0736ac348a33" />
+      <img width="600" alt="Boton de Desbloqueo" src="https://github.com/user-attachments/assets/1d0806bc-5d9b-4eb7-bf43-8b9d03889e73" />
     </td>
   </tr>
 
