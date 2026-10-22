@@ -194,26 +194,46 @@ El módulo contempla también una alternativa de registro manual por número de 
   <tr>
     <td align="center">
       <img width="100%" alt="Usuario Promedio"
-      src="https://github.com/user-attachments/assets/8490cc1d-b9a5-4dcb-909f-1bfe35bae135" />
-    </td>
+      src="https://github.com/user-attachments/assets/8490cc1d-b9a5-4dcb-909f-1bfe35bae135" /> </td>
     <td align="center">
       <img width="100%" alt="Administradores"
-      src="https://github.com/user-attachments/assets/79002b6d-cdcf-48b7-b9f4-580d335bc2de"/>
-
-    </td>
+      src="https://github.com/user-attachments/assets/79002b6d-cdcf-48b7-b9f4-580d335bc2de"/> </td>
   </tr>
 </table>
 
 ### 5. Control de puntualidad
 
-El sistema contempla una regla de control de tardanzas mensuales. Al alcanzar el límite configurado, el usuario puede quedar bloqueado y debe acudir a Recursos Humanos para justificar su impuntualidad.
+El sistema aplica una regla de control de tardanzas con un límite de 3 tardanzas mensuales. Cada vez que se registra una tardanza, el empleado recibe una notificación de advertencia.
+
+Al alcanzar el límite establecido, el usuario queda bloqueado y debe acudir a Recursos Humanos para justificar su impuntualidad. En ese momento, se habilita el botón Desbloquear, que permite restablecer el contador de tardanzas para iniciar un nuevo seguimiento.
+<table>
+  <tr>
+    <th align="center">Contador de Tardanzas</th>
+    <th align="center">Notificacion de Advertencia N*3</th>
+    <th align="center">Boton de Desbloqueo</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Contador de Tardanzas" src="https://github.com/user-attachments/assets/ee159d54-525a-4147-b932-5c9e8f8be947">
+    </td>
+    <td align="center">
+      <img width="100%" alt="Notificacion de Advertencia" src="https://github.com/user-attachments/assets/3e56a472-8166-471d-96bd-4219e894e0e2" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="Boton de Desbloqueo"  src="https://github.com/user-attachments/assets/00cdda14-e4d6-4e52-8b9e-0736ac348a33" />
+    </td>
+  </tr>
+
+</table>
+
 
 ### 6. Gestión de cargos
 
 Administración de los cargos asociados a la organización del personal.
 
 <!-- Agregar captura real de cargos -->
-![Gestión de cargos](docs/screenshots/cargos.png)
+<img width="474" height="437" alt="imagen" src="https://github.com/user-attachments/assets/ee159d54-525a-4147-b932-5c9e8f8be947" />
+
 
 ### 7. Gestión de áreas y ubicaciones
 
