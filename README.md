@@ -40,13 +40,14 @@ antalla de autenticación para acceder al sistema mediante credenciales de usuar
 Dashboard con información de asistencia y gráficos para consultar la puntualidad del personal por períodos diarios, semanales y mensuales. Que permite visualizar información relacionada con el control de asistencia del personal. La interfaz y las opciones disponibles varían según el rol del usuario, de acuerdo con sus responsabilidades y permisos de acceso.
 
 La gestión multisede permite administrar la información de distintas sedes, manteniendo restricciones de acceso según el nivel de autorización de cada usuario:
--Administrador global (admin_global): dispone de opciones de gestión con alcance multisede.
 
--Administrador de sede (admin_sede): accede a las opciones autorizadas para administrar su propia sede.
+**-Administrador global (admin_global):** dispone de opciones de gestión con alcance multisede.
 
--División Personal (Recursos Humanos): dispone de un menú más limitado, con acceso a Inicio, Empleados, Asistencias y Check-in de su sede correspondiente.
+**-Administrador de sede (admin_sede):** accede a las opciones autorizadas para administrar su propia sede.
 
-## Dashboard según el rol de usuario
+**-División Personal (Recursos Humanos):** dispone de un menú más limitado, con acceso a Inicio, Empleados, Asistencias y Check-in de su sede correspondiente.
+
+## Dashboard según el rol de usuario.
 
 El dashboard presenta información y funcionalidades según el rol
 y el alcance de acceso de cada usuario.
@@ -159,7 +160,6 @@ Se puede ver y editar en el mismo campo:
 
 Consulta de los registros de entrada y salida del personal, fecha y hora, la hora esperada según el horario del cargo, hora de retraso, horas trabajadas, con información organizada para facilitar el seguimiento de las asistencias.
 
-
 <table>
   <tr>
     <th align="center">Administrador global</th>
@@ -186,8 +186,23 @@ La integración se diseñó utilizando el SDK de Futronic y un puente desarrolla
 
 El módulo contempla también una alternativa de registro manual por número de cédula, restringida a los usuarios administradores autorizados, para los casos en que un empleado presente dificultades con su huella.
 
-<!-- Agregar captura real del módulo de check-in -->
-![Módulo de check-in](docs/screenshots/checkin.png)
+<table>
+  <tr>
+    <th align="center">Usuario Promedio</th>
+    <th align="center">Administrador de sede y Global</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Usuario Promedio"
+      src="https://github.com/user-attachments/assets/8490cc1d-b9a5-4dcb-909f-1bfe35bae135" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="Administradores"
+      src="https://github.com/user-attachments/assets/79002b6d-cdcf-48b7-b9f4-580d335bc2de"/>
+
+    </td>
+  </tr>
+</table>
 
 ### 5. Control de puntualidad
 
