@@ -285,23 +285,46 @@ El sistema contempla tres perfiles principales:
 | División de Personal | Acceso a las funciones de personal autorizadas para su sede. |
 
 La interfaz y las opciones disponibles varían según los permisos asignados a cada perfil.
-
-<!-- Agregar captura real de usuarios y roles -->
-![Gestión de usuarios](docs/screenshots/usuarios.png)
+<table>
+  <tr>
+    <th align="center">Administrador global</th>
+    <th align="center">Administrador de sede</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Administrador global"
+   src="https://github.com/user-attachments/assets/1f1e4361-6d22-4c02-aa41-cfb9f0faf7b4" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="Administrador de sede" 
+       alt="imagen" src="https://github.com/user-attachments/assets/c4b09f1d-80c1-4702-b1cb-0e5d32282747" />
+    </td>
+  </tr>
+</table>
 
 ### 9. Reportes
-
-Módulo de consulta de información de asistencia, orientado al seguimiento de registros y puntualidad, con información limitada según los permisos del usuario.
-
-<!-- Agregar captura real de reportes -->
-![Reportes de asistencia](docs/screenshots/reportes.png)
+Permite consultar el historial de acciones realizadas por los usuarios dentro del sistema, como el registro, la edición y la eliminación de información. Los datos que puede visualizar cada usuario dependen de su rol y de los permisos asignados.
+<table>
+  <tr>
+    <th align="center">Administrador global</th>
+    <th align="center">Administrador de sede</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Administrador global"
+ src="https://github.com/user-attachments/assets/e2035ba7-6e0c-4686-a3e6-46744ed279ab" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="Administrador de sede" 
+        src="https://github.com/user-attachments/assets/750ae4ec-ec7c-4f44-826d-70d9eac06938" />
+    </td>
+  </tr>
+</table>
 
 ## Arquitectura general
 
 El sistema utiliza una aplicación web desarrollada en PHP y una base de datos MySQL. Para la integración biométrica, se contempla un componente Java que comunica el backend con el SDK de Futronic.
-
 Flujo general de la integración:
-
 1. La interfaz web solicita una operación de registro o identificación.
 2. El componente de integración se comunica con el lector biométrico.
 3. El resultado de la operación se procesa mediante la lógica de la aplicación.
