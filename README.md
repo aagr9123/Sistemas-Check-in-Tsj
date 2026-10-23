@@ -229,18 +229,48 @@ Al alcanzar el límite establecido, el usuario queda bloqueado y debe acudir a R
 
 ### 6. Gestión de cargos
 
-Administración de los cargos asociados a la organización del personal.
+Administración de los cargos asociados a la organización del personal, junto con su su horario.
+<table>
+  <tr>
+    <th align="center">Vista previa</th>
+    <th align="center">Agregar</th>
+    <th align="center">Editar</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img width="100%" alt="Vista previa"
+      src="https://github.com/user-attachments/assets/31e7c46f-a28a-4747-b472-e16364bc9278">
+    </td>
+    <td align="center" valign="top">
+      <img width="100%" alt="Agregar"
+      src="https://github.com/user-attachments/assets/b6629ad3-5d3e-4086-9306-334bab1da253"/>
+   </td>
+    <td align="center" valign="top">
+      <img width="100%" alt="Editar"
+     src="https://github.com/user-attachments/assets/68d01daf-b107-430e-8b08-da4ae5da3304" />
+    </td>
+  </tr>
+</table>
 
-<!-- Agregar captura real de cargos -->
-<img width="474" height="437" alt="imagen" src="https://github.com/user-attachments/assets/ee159d54-525a-4147-b932-5c9e8f8be947" />
+### 7. Gestión de áreas y ubicaciones.
 
-
-### 7. Gestión de áreas y ubicaciones
-
-Módulo para administrar áreas y ubicaciones, con herramientas de búsqueda y opciones de exportación de información a Excel o PDF, según las funcionalidades disponibles.
-
-<!-- Agregar captura real de áreas -->
-![Gestión de áreas y ubicaciones](docs/screenshots/areas.png)
+Módulo para administrar áreas (Sedes) y ubicaciones (Administraciones y Fisicas), con herramientas de búsqueda y opciones de exportación de información a Excel o PDF, según las funcionalidades disponibles.
+<table>
+  <tr>
+    <th align="center">Administrador global</th>
+    <th align="center">Administrador de sede</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Administrador global"
+   src="https://github.com/user-attachments/assets/f649069e-50fd-4cf5-aa1c-41faa62a0fd6" />
+    </td>
+    <td align="center">
+      <img width="100%" alt="Administrador de sede" 
+        src="https://github.com/user-attachments/assets/bcb5f40c-eabd-42b6-9367-3d6c81b7fcef" />
+    </td>
+  </tr>
+</table>
 
 ### 8. Gestión de usuarios y permisos
 
@@ -277,15 +307,9 @@ Flujo general de la integración:
 3. El resultado de la operación se procesa mediante la lógica de la aplicación.
 4. Los registros correspondientes se gestionan en la base de datos.
 
-*
 Proyecto desarrollado en el contexto de pasantías profesionales. La disponibilidad de algunas funciones, especialmente la integración con el lector biométrico, depende del hardware y del entorno de ejecución.
-
-Las capturas utilizadas como maquetas o demostraciones visuales deben distinguirse de las pruebas funcionales realizadas con el dispositivo real.
-
 ## Aprendizajes
-
 Este proyecto me permitió trabajar con:
-
 - Desarrollo de aplicaciones web con PHP y MySQL.
 - Integración entre tecnologías de software y hardware biométrico.
 - Diseño de funcionalidades de administración por roles y sedes.
