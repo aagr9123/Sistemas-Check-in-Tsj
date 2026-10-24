@@ -110,7 +110,7 @@ Módulo para consultar y administrar la información del personal, con opciones 
       <img src="https://github.com/user-attachments/assets/af91d985-78a0-4aa9-99b3-c4444d8ec7cc" width="100%">
     </td>
     <td align="center">
-      <strong>Datos Personales</strong><br>
+      <strong>Datos Laborales</strong><br>
       <img src="https://github.com/user-attachments/assets/9c8343c4-f07a-42d4-9c9a-051894ae0d3c" width="100%">
     </td>
   </tr>
